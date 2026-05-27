@@ -33,15 +33,15 @@ Než se pustíte do čtení instalačního deníku, zde je rychlý přehled toho
 
 ##  Deník instalace (Instalační fáze)
 
-###  Fáze 1: První auto [ZDE DOPLŇ ZNAČKU A MODEL AUTA, např. Škoda Octavia II]
-*Zde popiš svou první instalaci. Můžeš využít tuto strukturu:*
+###  První auto [Škoda Superb I]
+Moje první auto vyrobeno v roce 2008, najeto 400 000km v bídném vizuálním stavu, idealní kandidát na subwoofer.
 
-* **Příprava kabeláže:** Jak se ti tahal plusový kabel od baterky skrz motorovou stěnu (kudy jsi šel, jak to šlo těžko). Jaký průřez kabelu jsi použil.
-* **Uzemnění (Kostra):** Kam jsi ukostřil záporný kabel v kufru (např. pod šroub sedaček/pásů a jak jsi brousil barvu).
-* **Zapojení zesilovače:** Kam jsi dal zesilovač, jak jsi bral signál (RCA z aftermarket rádia, nebo High-Low adaptér z originálního rádia).
-* **Výsledek:** Jak to v tomhle autě hrálo, jaké jsi měl pocity.
+* **Příprava kabeláže:** Plusový kabel od baterky byl protáhnut u strany řidiče, kde se nacházi řídící jednotka, je tam svazek kabelu a misto pro plusový tam je. Bez pomoci svého bratrance, který se tím zabývá bych to opravdu sám nedokázal. Poté se navedl kabel po levé straně skrz interier až do kufru.
+* **Uzemnění (Kostra):** Mínusový kabel byl uzemněn ke kostře na ram kufru. Musela se obrousit barva smirkovacím papírem a drátěným kartáčem.
+* **Zapojení zesilovače:** Zesilovač byl přišroubován přímo na subwoofer RCA kabely (stíněné kabely k přenosu zvuku)vedou prostředkem pod sedačkami.
+* **Výsledek:** Celkově to bylo náročné a sranda to moc nebyla, zabralo to celý den. ///Jak to v tomhle autě hrálo, jaké jsi měl pocity.
 
-###  Fáze 2: Předělávka do druhého auta [ZDE DOPLŇ DRUHÉ AUTO, např. VW Golf VII]
+###  Předělávka do druhého auta [Škoda Octavia II]
 *Tady popiš proces stěhování hudby do nového auta. Přestavba je málokdy stejná!*
 
 * **Rozdíly v instalaci:** V čem to bylo jiné? Mělo nové auto lepší přístup skrz motorovou stěnu? Bylo potřeba koupit delší kabely?
