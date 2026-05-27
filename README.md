@@ -33,7 +33,9 @@ Než se pustíte do čtení instalačního deníku, zde je rychlý přehled toho
 
 ##  Deník instalace (Instalační fáze)
 
-###  První auto [Škoda Superb I]
+---
+
+##  První auto [Škoda Superb I (3U4)]
 Moje první auto vyrobeno v roce 2008, najeto 400 000km v bídném vizuálním stavu, idealní kandidát na subwoofer.
 
 * **Příprava kabeláže:** Plusový kabel od baterky byl protáhnut u strany řidiče, kde se nacházi řídící jednotka, je tam svazek kabelu a misto pro plusový tam je. Bez pomoci svého bratrance, který se tím zabývá bych to opravdu sám nedokázal. Poté se navedl kabel po levé straně skrz interier až do kufru.
@@ -41,40 +43,39 @@ Moje první auto vyrobeno v roce 2008, najeto 400 000km v bídném vizuálním s
 * **Zapojení zesilovače:** Zesilovač byl přišroubován přímo na subwoofer RCA kabely (stíněné kabely k přenosu zvuku)vedou prostředkem pod sedačkami.
 * **Výsledek:** Celkově to bylo náročné a sranda to moc nebyla, zabralo to celý den. ///Jak to v tomhle autě hrálo, jaké jsi měl pocity.
 
-###  Předělávka do druhého auta [Škoda Octavia II]
-*Tady popiš proces stěhování hudby do nového auta. Přestavba je málokdy stejná!*
+###  Problémy během instalace a jejich řešení
 
-* **Rozdíly v instalaci:** V čem to bylo jiné? Mělo nové auto lepší přístup skrz motorovou stěnu? Bylo potřeba koupit delší kabely?
-* **Změna konfigurace:** Využil jsi u JBL přepínač impedance **SSI (2 vs 4 ohmy)**, protože jsi měnil nebo jinak zapojoval zesilovač?
-* **Akustika:** Hraje to v tomhle autě líp nebo hůř než v tom prvním? (Např. kvůli jinému typu karoserie - sedan vs. hatchback).
+####  Problém 1: Subwoofer prasknul a přestal fungovat
+* **Příčina:** Při běžné jízdě subwoofer prasknul, protože se spálila pojistka. Byla jen jedna proto se spálila.
+* **Řešení:**  Koipili se nové 40A pojistky a použili se dvě místo jen jedné.
 
----
+####  Problém 2: Končící STK
+* **Příčina:** Autu končilo STK, dělat novou by bylo náročné a tím pádem by nebyl využíván zvukový systém.
+* **Řešení:** Koupil jsem jiné auto, do kterého dám zvukový system ze Superba.
 
-##  Problémy během instalace a jejich řešení (Troubleshooting)
 
-*Během montáže autohudby se vždycky něco pokazí. Tady jsou nejčastější faily, které můžeš promazat nebo doplnit o své vlastní:*
+##  Předělávka do druhého auta [Škoda Octavia II (Combi)]
+Moje druhé auto už je v lepším techinckém stavu, protože jsem se poučil ze svých chyb a zaměřil jsem se na možné skryté závady.
 
-####  Problém 1: Rušení v reproduktorech (Pískání podle otáček motoru)
-* **Příčina:** Napájecí kabel a signálové RCA kabely byly taženy na stejné straně auta (v jednom prahu), což indukovalo interference od alternátoru do audia.
-* **Řešení:** Kompletní rozebrání prahů. Napájecí kabel tažen levým prahem, signálové RCA kabely pravým prahem. Pískání kompletně zmizelo.
+* **Rozdíly:** V autě byl horší přístup na daný kabel a bohužel to ještě nemám úplně hotové protože když jsem to zkoušel propojovat s radiem odpálila se jedna z řídících jednotek. 
+* **Stav:** Aktuálně mám připravenou kabeláž čeká se pouze na příchod nové řídící jednotky 
+* **Akustika:** Akustika by měla být lepší protože v ní není zádna překážka díky tomu, že to ma propojený kufr. Tím pádem bude vyžadovat méně výkonu.  
 
-####  Problém 2: Pohasínání světel / palubky při basových špičkách
-* **Příčina:** Velký nárazový odběr proudu při úderech subwooferu (400W RMS už dokáže s napětím zamávat).
-* **Řešení:** Posílení ukostření baterie v motorovém prostoru (tzv. *The Big Three upgrade*) / přidání kapacitoru / výměna staré autobaterie za silnější AGM baterii.
+###  Problémy během instalace a jejich řešení (Troubleshooting)
 
-####  Problém 3: Subwoofer po zapnutí hned vypne zesilovač (Protect mode)
-* **Příčina:** Špatně nastavená impedance na subwooferu vs. stabilita zesilovače. Zesilovač neuměl pracovat do 2 ohmů.
-* **Řešení:** Využil jsem chytrou funkci JBL wooferu a přepnul SSI spínač na **4 ohmy**. Zesilovač přestal padat do ochrany a hraje stabilně.
+####  Problém 1: Přemontování kabelů ze starého auto do nového
+* **Příčina:** Při demontáži kabelu došlo k problému, že kabel byl zaveden pod zadnímy sedačkami a museli se vyjmout aby se mohli odstranit kabely
+* **Řešení:** Trvalo to nějakou dobu než jsem přišel na to, jak se sedačky dají vyjmout, ale po několika pokusech se mi to povedlo a kabely jsem odstranil.
 
-####  Problém 4: [ZDE DOPLŇ SVŮJ VLASTNÍ PROBLÉM, KTERÝ TĚ POTKAL...]
-* *Příčina:* ...
-* *Řešení:* ...
+####  Problém 2: Odpálená řídící jednotka 
+* **Příčina:** Zapojení radia s redukci která nebyla dělaná pro dané auto
+* **Řešení:** Objednala se nová řídící jednotka a čeká se až dorazí.
 
 ---
 
 ##  Výsledné hodnocení & Zkušenosti
-* **Přesnost basů:** Jak stíhá tenhle 12" reproduktor rychlejší žánry (Rock/Metal/DnB) vs. hluboký Rap?
-* **Celkové hodnocení:** Splnil JBL Club 1200P tvoje očekávání?
+* **Zážitek z basů:** Musím říct, že zezačátku jsem byl skeptický, jestli to potřebuji do života a jestli to vůbec stojí za to. Nejde to prožít skrz video musíte v takovým autě být abyste věděli jestli to má cenu zařizovat.
+* **Celkové hodnocení:** Za cenu pár tisíc Korun to podle mě stojí obzvlášť, když jste fanoušek hudby. Zkoušel jsem různé žánry a nejlépe zni rap anebo celkově písničky, kde basa hraje velkou roli. Je to dost práce takže pokud zvažujete instalaci subwooferu, tak doporučuju si o tom něco zjistit, poradit se s někým, kdo tomu rozumí. V mém případě mi pomohl můj bratranec, který to dělal již nekolikrát. 
 
 ---
 *Pokud řešíte podobný problém s instalací autohudby, klidně otevřete **Issue** nebo nahoďte **Star**! *
