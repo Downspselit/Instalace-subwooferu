@@ -27,6 +27,7 @@ Než se pustíte do čtení instalačního deníku, zde je rychlý přehled toho
 5. **Kmitací cívka (Voice Coil):** Srdce subwooferu. Protékající proud ze zesilovače zde vytváří elektromagnetické pole. JBL má pokročilé chlazení, aby cívka zvládla dlouhodobou zátěž.
 6. **Magnet:** Masivní feritový prstenec na zadní straně, který dává subwooferu sílu a přesnou kontrolu.
 7. **Prachovka (Dust Cap):** Středový kryt chránící cívku před nečistotami.
+ <img src="Fotky/fotceka.jpg" alt="Memecko" width="100%">
 
 ---
 
