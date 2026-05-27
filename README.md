@@ -30,9 +30,9 @@ Než se pustíte do čtení instalačního deníku, zde je rychlý přehled toho
 
 ---
 
-## 📅 Deník instalace (Instalační fáze)
+##  Deník instalace (Instalační fáze)
 
-### 🚗 Fáze 1: První auto [ZDE DOPLŇ ZNAČKU A MODEL AUTA, např. Škoda Octavia II]
+###  Fáze 1: První auto [ZDE DOPLŇ ZNAČKU A MODEL AUTA, např. Škoda Octavia II]
 *Zde popiš svou první instalaci. Můžeš využít tuto strukturu:*
 
 * **Příprava kabeláže:** Jak se ti tahal plusový kabel od baterky skrz motorovou stěnu (kudy jsi šel, jak to šlo těžko). Jaký průřez kabelu jsi použil.
@@ -76,4 +76,4 @@ Než se pustíte do čtení instalačního deníku, zde je rychlý přehled toho
 * **Celkové hodnocení:** Splnil JBL Club 1200P tvoje očekávání?
 
 ---
-*Pokud řešíte podobný problém s instalací autohudby, klidně otevřete **Issue** nebo nahoďte **Star**! ⭐*
+*Pokud řešíte podobný problém s instalací autohudby, klidně otevřete **Issue** nebo nahoďte **Star**! *
