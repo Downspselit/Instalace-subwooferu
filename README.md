@@ -1,10 +1,10 @@
-# 🚗 Projekt: Instalace a upgrade subwooferu (JBL Club 1200P 12")
+#  Projekt: Instalace a upgrade subwooferu (JBL Club 1200P 12")
 
 Vítejte v mém repozitáři zaměřeném na audio projekt instalace, provozu a následného předělávání 12" subwooferu **JBL Club 1200P** (400W RMS) do jiného auta. Tento projekt slouží jako můj osobní deník, návod pro ostatní a přehled technických řešení včetně problémů, se kterými jsem se během instalace potýkal.
 
 ---
 
-## 📝 Přehled projektu & Audio komponenty
+##  Přehled projektu & Audio komponenty
 
 Cílem projektu bylo dosáhnout čistého a hutného basového základu v autě bez toho, aby docházelo k přetěžování elektrické sítě vozidla.
 
@@ -17,7 +17,7 @@ Cílem projektu bylo dosáhnout čistého a hutného basového základu v autě 
 
 ---
 
-## 🛠️ Teoretický základ: Anatomie subwooferu
+##  Teoretický základ: Anatomie subwooferu
 Než se pustíte do čtení instalačního deníku, zde je rychlý přehled toho, z čeho se tento subáč skládá a proč funguje tak dobře:
 
 1. **Koš (Basket):** Pevné šasi, které drží celou konstrukci pohromadě. U JBL je navrženo tak, aby minimalizovalo rezonance při plném výkonu 400W RMS.
@@ -40,7 +40,7 @@ Než se pustíte do čtení instalačního deníku, zde je rychlý přehled toho
 * **Zapojení zesilovače:** Kam jsi dal zesilovač, jak jsi bral signál (RCA z aftermarket rádia, nebo High-Low adaptér z originálního rádia).
 * **Výsledek:** Jak to v tomhle autě hrálo, jaké jsi měl pocity.
 
-### 🔄 Fáze 2: Předělávka do druhého auta [ZDE DOPLŇ DRUHÉ AUTO, např. VW Golf VII]
+###  Fáze 2: Předělávka do druhého auta [ZDE DOPLŇ DRUHÉ AUTO, např. VW Golf VII]
 *Tady popiš proces stěhování hudby do nového auta. Přestavba je málokdy stejná!*
 
 * **Rozdíly v instalaci:** V čem to bylo jiné? Mělo nové auto lepší přístup skrz motorovou stěnu? Bylo potřeba koupit delší kabely?
@@ -49,29 +49,29 @@ Než se pustíte do čtení instalačního deníku, zde je rychlý přehled toho
 
 ---
 
-## ⚠️ Problémy během instalace a jejich řešení (Troubleshooting)
+##  Problémy během instalace a jejich řešení (Troubleshooting)
 
 *Během montáže autohudby se vždycky něco pokazí. Tady jsou nejčastější faily, které můžeš promazat nebo doplnit o své vlastní:*
 
-#### 🛠️ Problém 1: Rušení v reproduktorech (Pískání podle otáček motoru)
+####  Problém 1: Rušení v reproduktorech (Pískání podle otáček motoru)
 * **Příčina:** Napájecí kabel a signálové RCA kabely byly taženy na stejné straně auta (v jednom prahu), což indukovalo interference od alternátoru do audia.
 * **Řešení:** Kompletní rozebrání prahů. Napájecí kabel tažen levým prahem, signálové RCA kabely pravým prahem. Pískání kompletně zmizelo.
 
-#### 🛠️ Problém 2: Pohasínání světel / palubky při basových špičkách
+####  Problém 2: Pohasínání světel / palubky při basových špičkách
 * **Příčina:** Velký nárazový odběr proudu při úderech subwooferu (400W RMS už dokáže s napětím zamávat).
 * **Řešení:** Posílení ukostření baterie v motorovém prostoru (tzv. *The Big Three upgrade*) / přidání kapacitoru / výměna staré autobaterie za silnější AGM baterii.
 
-#### 🛠️ Problém 3: Subwoofer po zapnutí hned vypne zesilovač (Protect mode)
+####  Problém 3: Subwoofer po zapnutí hned vypne zesilovač (Protect mode)
 * **Příčina:** Špatně nastavená impedance na subwooferu vs. stabilita zesilovače. Zesilovač neuměl pracovat do 2 ohmů.
 * **Řešení:** Využil jsem chytrou funkci JBL wooferu a přepnul SSI spínač na **4 ohmy**. Zesilovač přestal padat do ochrany a hraje stabilně.
 
-#### 🛠️ Problém 4: [ZDE DOPLŇ SVŮJ VLASTNÍ PROBLÉM, KTERÝ TĚ POTKAL...]
+####  Problém 4: [ZDE DOPLŇ SVŮJ VLASTNÍ PROBLÉM, KTERÝ TĚ POTKAL...]
 * *Příčina:* ...
 * *Řešení:* ...
 
 ---
 
-## 📊 Výsledné hodnocení & Zkušenosti
+##  Výsledné hodnocení & Zkušenosti
 * **Přesnost basů:** Jak stíhá tenhle 12" reproduktor rychlejší žánry (Rock/Metal/DnB) vs. hluboký Rap?
 * **Celkové hodnocení:** Splnil JBL Club 1200P tvoje očekávání?
 
