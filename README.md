@@ -78,4 +78,5 @@ Moje druhé auto už je v lepším techinckém stavu, protože jsem se poučil z
 * **Celkové hodnocení:** Za cenu pár tisíc Korun to podle mě stojí obzvlášť, když jste fanoušek hudby. Zkoušel jsem různé žánry a nejlépe zni rap anebo celkově písničky, kde basa hraje velkou roli. Je to dost práce takže pokud zvažujete instalaci subwooferu, tak doporučuju si o tom něco zjistit, poradit se s někým, kdo tomu rozumí. V mém případě mi pomohl můj bratranec, který to dělal již nekolikrát. 
 
 ---
-*Pokud řešíte podobný problém s instalací autohudby, klidně otevřete **Issue** nebo nahoďte **Star**! *
+*Zde je ještě video jak to shruba znělo v Superbu. Bohužel moc záznamů nemám, jsem rád že jsem někde našel aspoň něco.*
+ <img src="Fotky/subwoofer sound.mov" alt="Sound" width="50%">
