@@ -79,4 +79,4 @@ Moje druhé auto už je v lepším techinckém stavu, protože jsem se poučil z
 
 ---
 *Zde je ještě video jak to shruba znělo v Superbu. Bohužel moc záznamů nemám, jsem rád že jsem někde našel aspoň něco.*
- <img src="Fotky/subwoofer sound.mov" alt="Sound" width="50%">
+ <iframe src="https://drive.google.com/file/d/15VC0cKXVLO3ZWkc6MakBZck50mkZimE7/preview" width="100%" height="480"></iframe>
