@@ -41,8 +41,8 @@ Moje první auto vyrobeno v roce 2008, najeto 400 000km v bídném vizuálním s
 * **Příprava kabeláže:** Plusový kabel od baterky byl protáhnut u strany řidiče, kde se nacházi řídící jednotka, je tam svazek kabelu a misto pro plusový tam je. Bez pomoci svého bratrance, který se tím zabývá bych to opravdu sám nedokázal. Poté se navedl kabel po levé straně skrz interier až do kufru.
 * **Uzemnění (Kostra):** Mínusový kabel byl uzemněn ke kostře na ram kufru. Musela se obrousit barva smirkovacím papírem a drátěným kartáčem.
 * **Zapojení zesilovače:** Zesilovač byl přišroubován přímo na subwoofer RCA kabely (stíněné kabely k přenosu zvuku)vedou prostředkem pod sedačkami.
-* **Výsledek:** Celkově to bylo náročné a sranda to moc nebyla, zabralo to celý den. ///Jak to v tomhle autě hrálo, jaké jsi měl pocity.
-
+* **Výsledek:** Celkově to bylo náročné a sranda to moc nebyla, zabralo to celý den.
+  <img src="Fotky/Schéma subwooferu.jpg" alt="Schema" width="50%">
 ###  Problémy během instalace a jejich řešení
 
 ####  Problém 1: Subwoofer prasknul a přestal fungovat
